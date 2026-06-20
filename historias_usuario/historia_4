@@ -1,0 +1,10 @@
+Historia 4: Agregar productos al carrito
+Como usuario
+Quiero seleccionar productos y cantidades
+Para preparar mi pedido.
+
+Criterios de aceptación:
+
+El carrito debe mostrar productos seleccionados, cantidad y subtotal.
+
+El usuario puede modificar cantidades o eliminar productos.
