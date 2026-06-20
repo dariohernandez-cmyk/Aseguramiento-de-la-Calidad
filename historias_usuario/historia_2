@@ -1,0 +1,12 @@
+Historia 2: Inicio de sesión
+Como usuario registrado
+Quiero iniciar sesión con mi correo y contraseña
+Para acceder de forma segura a mi cuenta.
+
+Criterios de aceptación:
+
+El sistema valida credenciales correctas.
+
+Si son incorrectas, muestra mensaje de error.
+
+El acceso debe ser seguro (ej. cifrado de contraseña).
