@@ -1,0 +1,10 @@
+Historia 3: Exploración del menú
+Como usuario
+Quiero ver la lista de cafés y productos de panadería con precios y descripciones
+Para decidir qué comprar.
+
+Criterios de aceptación:
+
+El menú debe mostrar nombre, descripción y precio de cada producto.
+
+Los productos deben estar organizados por categoría (ej. café, panadería)
