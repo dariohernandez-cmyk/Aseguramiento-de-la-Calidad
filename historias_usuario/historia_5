@@ -1,0 +1,12 @@
+Historia 5: Realizar pedido
+Como usuario
+Quiero confirmar mi pedido y elegir método de pago simulado
+Para obtener un número de orden y recogerlo en el local.
+
+Criterios de aceptación:
+
+El sistema genera un número único de orden.
+
+Se muestra confirmación con detalles del pedido.
+
+El método de pago simulado debe registrarse correctamente.
